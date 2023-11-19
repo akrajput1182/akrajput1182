@@ -1,12 +1,12 @@
 👨🏻‍💻  About Me
 
-💡   I'm a Ongoing Greduate Student and researcher at TMU University,Moradabad , in the field of Computer science and technolgy patterns.
+💡   I'm an Ongoing Graduate Student and researcher at TMU University, Moradabad, in the field of Computer science and technology patterns.
 
 🎓  I'm currently studying Computer Science and Engineering at TMU University, Moradabad (2021-2024).
 
-🌱  I'm on track for learning more about Machine Learning, Homomorphic Encryption, and Computer Vision.
+🌱  I'm on track to learn more about Machine Learning, Homomorphic Encryption, and Computer Vision.
 
-✍️  In my free time, I write code  as my hobbies.
+✍️  In my free time, I write code  as my hobby.
 
 💬  Feel free to reach out to me for general consulting, or discussions on the aforementioned topics!
 
